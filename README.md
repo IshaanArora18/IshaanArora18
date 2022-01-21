@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi ,I am Ishaan 👋
 
-<!--
-**IshaanArora18/IshaanArora18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a sophomore at Indian Institute of Information Technology Vadodara-International Campus Diu.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning MERN Stack Development
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy solving rubik's cube.
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/IshaanA97673308
+[instagram]: https://www.instagram.com/isshaan_arora_9/
+[linkedin]: https://www.linkedin.com/in/ishaan-arora-b27581201/

@@ -1,6 +1,6 @@
 ### Hi ,I am Ishaan 👋
 
-## I am a sophomore at Indian Institute of Information Technology Vadodara-International Campus Diu.
+## I am a Sophomore Undergrad at Indian Institute of Information Technology Vadodara-International Campus Diu.
 
 
 - 🌱 I’m currently learning MERN Stack Development

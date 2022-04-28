@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishaan Arora</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A developer trying to learn stuff XD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaanarora18&label=Profile%20views&color=0e75b6&style=flat" alt="ishaanarora18" /> </p>
 
